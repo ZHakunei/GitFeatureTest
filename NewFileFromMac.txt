@@ -1,3 +1,1 @@
-加一段文字
-在PCcommit后 我这边编辑一段文字 并先于PC push上去
-commit+push
+我只写了这一段， 我也没考虑NB有没有push， 我改完就直接Commit+Push，
