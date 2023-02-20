@@ -1,2 +1,1 @@
-加一段文字
-我先加上这段文字 然后等待 mac commit+push pc再今行commit+push
+我写了这一段; commit 了一下 但没有push
