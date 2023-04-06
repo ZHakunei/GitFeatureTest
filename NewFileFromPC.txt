@@ -1,4 +1,0 @@
-我写了这一段; commit 了一下 但没有push
-我很勤奋, 又加了一段, 这次不但commit, 而且push了, 但是Mac在这之前push了一版到master, 我的push会fail
-这一次试试fetch
-这一次试试pull
