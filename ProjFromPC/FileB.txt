@@ -1,2 +1,4 @@
 我在PC上修改了, 后于Mac的commit Push
 我在PC再次修改, 这次试一次reset
+
+这次我在Mac上 改了PC文件，push
