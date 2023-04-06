@@ -1,1 +1,2 @@
 我在PC上修改了, 后于Mac的commit Push
+我在PC再次修改, 这次试一次reset
